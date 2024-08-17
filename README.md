@@ -1,7 +1,6 @@
 # Keylogger-Software
 
-Introduction
-The keylogger project is a demonstration of how to monitor and interact with keyboard and mouse events using Python. Keyloggers are software tools that record keystrokes on a device, capturing everything typed by the user. While keylogging has valid applications in debugging, user activity monitoring, and research, it also has ethical implications and risks associated with privacy and misuse.
+The keylogger-software is a demonstration of how to monitor and interact with keyboard and mouse events using Python. Keyloggers are software tools that record keystrokes on a device, capturing everything typed by the user. While keylogging has valid applications in debugging, user activity monitoring, and research, it also has ethical implications and risks associated with privacy and misuse.
 
 This project explores the fundamental aspects of keylogging and input control through three main components: a keylogger script, a control script, and a mouse listener script. Together, these scripts showcase the power and flexibility of Python in automating and monitoring user inputs.
 
